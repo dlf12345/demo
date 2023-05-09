@@ -7,7 +7,5 @@ public class demo01 {
         System.out.println("hotfix");
         System.out.println("hotfix2");
         System.out.println("aadfsfs");
-        System.out.println("push test");
-        System.out.println("pull test");
     }
 }
